@@ -20,14 +20,18 @@ Support SDG 14 by making marine conservation data easier to collect and use.
 
 ## Target Users
 
-Local researchers and marine scientists
-Coastal communities (fisherfolk, residents, local organizations)
-Citizen scientists and volunteers who monitor the coast
+<ul>
+  <li>Local researchers and marine scientists</li>
+  <li>Coastal communities (fisherfolk, residents, local organizations)</li>
+  <li>Citizen scientists and volunteers who monitor the coast</li>
+</ul>
 
 ## Main Features
 
-Ecological data logging – record species sightings, coral health, and coastal debris.
-Automatic alert handler – triggers when a high-severity entry is logged, for example a critical coral bleaching percentage (e.g., above 70%) or a hazardous debris concentration.
-Flexible report export – researchers can choose how they want to export their filtered monthly report.
-Seasonal alerts – warns users about spawning seasons, turtle nesting periods, and fishing bans in their area.
-Weather and sea-condition warnings – flags rough seas, heat waves, or runoff that may stress reefs (for example, heat waves can cause coral bleaching).
+<ul>
+  <li><strong>Ecological data logging</strong> – record species sightings, coral health, and coastal debris.</li>
+  <li><strong>Automatic alert handler</strong> – triggers when a high-severity entry is logged, for example a critical coral bleaching percentage (e.g., above 70%) or a hazardous debris concentration.</li>
+  <li><strong>Flexible report export</strong> – researchers can choose how they want to export their filtered monthly report.</li>
+  <li><strong>Seasonal alerts</strong> – warns users about spawning seasons, turtle nesting periods, and fishing bans in their area.</li>
+  <li><strong>Weather and sea-condition warnings</strong> – flags rough seas, heat waves, or runoff that may stress reefs (for example, heat waves can cause coral bleaching).</li>
+</ul>
